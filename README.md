@@ -1,4 +1,6 @@
-## Setting up a personal website/blog to try out Wordpress
+## Setting up a personal website/blog with Wordpress
 
-Coming soon...since no combinations of Barb/Barbara King available for a domain name, I went with a nickname a friend calls me...www.engineerbarb.com
+I previously set up a portfolio/resume webpage with javascript but I wanted to try out Wordpress and play around with a blog style site.
+
+Checkout my Wordpress resume and blog at: www.engineerbarb.com
 
